@@ -1,5 +1,5 @@
 <div align="center">
-  <p><img width="77" height="32" alt="404" src="https://user-images.githubusercontent.com/5457539/87850359-8d05d300-c92a-11ea-98ed-977628df223a.png"></p>
+  <p><img width="89" height="32" alt="404" src="https://user-images.githubusercontent.com/5457539/89096615-f863a080-d412-11ea-851a-6e7c1a1036e8.png"></p>
   <p>The person was not found on this planet.</p>
   <p>
     <a href="https://kiteretz.com/about/">Contact Support</a>
