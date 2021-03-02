@@ -8,8 +8,6 @@
   </p>
 </div>
 
-----
-
 <!--
 [![Bathe](https://github-readme-stats.vercel.app/api/pin/?username=ixkaito&repo=bathe)](https://github.com/ixkaito/bathe)
 [![Frasco](https://github-readme-stats.vercel.app/api/pin/?username=ixkaito&repo=frasco)](https://github.com/ixkaito/frasco)
