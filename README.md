@@ -8,12 +8,14 @@
   </p>
 </div>
 
-[![KTRZ Monokai](https://github-readme-stats.vercel.app/api/pin/?username=ixkaito&repo=ktrz-monokai)](https://github.com/ixkaito/ktrz-monokai)
-[![KTRZ Font](https://github-readme-stats.vercel.app/api/pin/?username=ixkaito&repo=ktrz-font)](https://github.com/ixkaito/ktrz-font)
+<!--
 [![Bathe](https://github-readme-stats.vercel.app/api/pin/?username=ixkaito&repo=bathe)](https://github.com/ixkaito/bathe)
 [![Frasco](https://github-readme-stats.vercel.app/api/pin/?username=ixkaito&repo=frasco)](https://github.com/ixkaito/frasco)
-[![ViewportScale](https://github-readme-stats.vercel.app/api/pin/?username=ixkaito&repo=viewportscale)](https://github.com/ixkaito/viewportscale)
 [![unreset.css](https://github-readme-stats.vercel.app/api/pin/?username=ixkaito&repo=unreset.css)](https://github.com/ixkaito/unreset.css)
+[![KTRZ Font](https://github-readme-stats.vercel.app/api/pin/?username=ixkaito&repo=ktrz-font)](https://github.com/ixkaito/ktrz-font)
+[![ViewportScale](https://github-readme-stats.vercel.app/api/pin/?username=ixkaito&repo=viewportscale)](https://github.com/ixkaito/viewportscale)
+[![KTRZ Monokai](https://github-readme-stats.vercel.app/api/pin/?username=ixkaito&repo=ktrz-monokai)](https://github.com/ixkaito/ktrz-monokai)
+-->
 
 <div align="center">
   <a href="https://github.com/ixkaito/bathe">
