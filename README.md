@@ -17,7 +17,7 @@
 [![KTRZ Monokai](https://github-readme-stats.vercel.app/api/pin/?username=ixkaito&repo=ktrz-monokai)](https://github.com/ixkaito/ktrz-monokai)
 -->
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/ixkaito/bathe">
     <img src="https://camo.githubusercontent.com/bfaf30c10faf6679f8cd810cb5179bc5f2e1a0bfff5de75269694c4557785111/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d69786b6169746f267265706f3d6261746865" alt="Bathe" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=ixkaito&amp;repo=bathe" style="max-width:100%;">
   </a>
@@ -36,4 +36,4 @@
   <a href="https://github.com/ixkaito/ktrz-monokai">
     <img src="https://camo.githubusercontent.com/2532b4479c956d2881c2de3e31931e4f51f71b3c68cd644f2cbdf69251994223/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d69786b6169746f267265706f3d6b74727a2d6d6f6e6f6b6169" alt="KTRZ Monokai" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=ixkaito&amp;repo=ktrz-monokai" style="max-width:100%;">
   </a>
-</div>
+</p>
